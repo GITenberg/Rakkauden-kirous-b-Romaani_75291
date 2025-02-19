@@ -1,0 +1,35 @@
+_repo: Rakkauden-kirous-b-Romaani_75291
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tarvas, Toivo
+    aliases:
+    - Kangas, Harri
+    - Kreivilä, Janne
+    - Kreivila, Janne
+    - Siilivaara, Otto W.
+    - T--s, T.
+    - T. T--s
+    birthdate: 1883
+    deathdate: 1937
+    gutenberg_agent_id: '56967'
+    url: http://www.gutenberg.org/2009/agents/56967
+    wikipedia: https://fi.wikipedia.org/wiki/Toivo_Tarvas
+description: ''
+gutenberg_issued: '2025-02-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75291'
+language: fi
+pgterms:marc905: 20220218013501kangas
+pgterms:marc906: '1921'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aHelsinki :$bKust.Oy Ahjo, $c1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Rakkauden kirous : $b Romaani'
+url: http://www.gutenberg.org/ebooks/75291
